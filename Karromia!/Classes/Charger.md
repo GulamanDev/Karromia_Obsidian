@@ -1,0 +1,9 @@
+Balance between HP and Medium Weight, Medium Damage, Melee only
+
+|        | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  |
+| ------ | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Weight |     |     |     |     | +   |     |     |     |     |     |
+| HP     |     |     |     |     | (+  | +   | +)  |     |     |     |
+| Damage |     |     |     |     | (+  | +)  |     |     |     |     |
+| Range  | +   |     |     |     |     |     |     |     |     |     |
+#Charger #Class 
