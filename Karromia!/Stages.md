@@ -1,5 +1,0 @@
-1. Meadows (Trees all around)
-2. Forest Caves (Caves as death pockets)
-3. Spring's River  (River in the middle)
-4. Lumberjack  (Logs that obstruct)
-5. Frozen Lake  (Less Friction)

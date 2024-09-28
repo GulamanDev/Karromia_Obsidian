@@ -1,0 +1,1 @@
+The game is set in the world of *[[Karromia]]*, a world of fantasy and magic, full of adventurers who roam the land searching for *[[Karrom Crystal]]*, which is believed to be the source of power which formed their very own world, and the source of magic.

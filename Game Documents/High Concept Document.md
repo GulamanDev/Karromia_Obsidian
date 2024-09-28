@@ -1,9 +1,10 @@
+#gamedoc
 ## Genre
 Turn-based, Arcade, Pocket Carrom, Pixel-art, PvP
 ## Game Concept
 Carrom Heroes is a turn-based, 2D, PvP game based on the classic game *Pocket Carrom*. Instead of Players use four of their *[[Pucks]]*, their characters, to battle with another player's pucks. The goal is to eliminate all enemies from the board by either bumping onto the enemy's pucks or using the skills of the player's pucks to deal damage.
 ## Setting
-The game is set in the world of *[[Karromia]]*, a world of fantasy and magic, full of adventurers who roam the land searching for *[[Karrom Crystals]]*, which are believed to be the source of power which formed their very own world, and the source of magic.
+The game is set in the world of *[[Karromia]]*, a world of fantasy and magic, full of adventurers who roam the land searching for *[[Karrom Crystal]]*, which are believed to be the source of power which formed their very own world, and the source of magic.
 ### Regions
 1. Meadows
 2. Forest Caves

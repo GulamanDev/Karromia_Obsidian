@@ -1,0 +1,4 @@
+#Puck 
+A single Karrom Crystal spawns at the center of the board. This puck has its own hp. Whem the HP is depleted, it gives a random buff to the last unit it made contact with. When the buff is given, its hp resets. The winner collects the Karrom Crystal as a trophy. In a situation where there is no puck remaining on the table, the match is considered as a draw and the crystal breaks.
+
+Lore wise, Karrom Crystal is believed to be the source of power which formed their very own world, and the source of magic. Adventurers seek and fight for this crystal to sustain and elevate their magic as a way to survive in the harsh, magical world of Karromia.

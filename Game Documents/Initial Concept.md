@@ -1,3 +1,4 @@
+#gamedoc
 Based on Pocket Carrom game
 
 4 heroes vs 4 heroes
@@ -30,17 +31,17 @@ Based on Pocket Carrom game
 
 # **Skills (4 per hero)**
 
-1. Launch
+1. Passive (When striking)
 2. Skill 1 (1 turn CD)
 3. Skill 2 (2 turn CD)
 4. Skill 3 (3 turn CD)
 
 # **Stages**
-1. Clearing (Trees all around)
-2. Summer Forest (Caves as death pockets)
-3. Spring Forest (River in the middle)
-4. Autumn Forest (Logs that obstruct)
-5. Winter Forest (Less Friction)
+1. [[Clearing]] (Trees all around)
+2. [[Summer Forest]] (Caves as death pockets)
+3. [[Spring Forest]] (River in the middle)
+4. [[Autumn Forest]] (Logs that obstruct)
+5. [[Winter Forest]] (Less Friction)
 
 https://0x72.itch.io/pixeldudesmaker
 https://kronbits.itch.io/freesfx

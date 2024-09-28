@@ -1,0 +1,5 @@
+1. [[Meadows]] (Plain stage with trees all around)
+2. [[Forest Caves]] (Caves that act as insta-death pockets)
+3. [[Spring's River]]  (River in the middle that slows a moving puck)
+4. [[Lumberjack]]  (Logs that obstruct some areas of the board)
+5. [[Frozen Lake]]  (Less Friction = more sliding)
