@@ -4,8 +4,14 @@
 * Narrative will be minimal
 * Code will consist of 2 people working together
 * M-F runs, No Weekend works (Tho, if you like to work extra on weekends, it's totally fine)
+* Meetings will be Monday and Friday (Start and End of each Run)
 ---
-## Project Scope
+## Goals
+- A simple game with a creative twist
+- Implementing Bot vs. Player (AINGAMES)
+- Implementing PvP (Local and Co-op for GAMENET)
+---
+## Karromia Concept Scope
 * The board will only consist of 9 [[Pucks]] (4 each player + 1 [[Karrom Crystal]])
 * We will only make one [[Stages]] (for now)
 * 4 unique characters (Charger, Sniper, Support, and Tank class)
@@ -17,24 +23,24 @@
 ## Run 1
 Solidifying Concepts and Scope
 
-|     | Narrative                                                                   | Art                                                     | Code |
-| --- | --------------------------------------------------------------------------- | ------------------------------------------------------- | ---- |
-| 30  | - Discussion of Concepts<br>- Character Abilities<br>- Fleshing out the HCD | -                                                       | -    |
-| 1   | -                                                                           | - Early Concept Sketches (4 basic characters)           | -    |
-| 2   | -                                                                           |                                                         | -    |
-| 3   | - Finalization of Concepts                                                  | - Determining what, which, and how many assets to make  | -    |
-| 4   | -                                                                           | - Making Simple Carrom 3D Models to use for prototyping | -    |
+|     | Narrative                                              | Art                                                                                                                                | Code |
+| --- | ------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| 30  | - Discussion of Concepts<br>- Fleshing out the HCD<br> | - Determining what, which, and how many assets to make                                                                             |      |
+| 1   |                                                        |                                                                                                                                    |      |
+| 2   |                                                        |                                                                                                                                    |      |
+| 3   |                                                        |                                                                                                                                    |      |
+| 4   | - Finalization of Concepts                             | **Asset Making Start**<br>- Early Concept Sketches (4 basic characters)<br>- Making Simple Carrom 3D Models to use for prototyping |      |
 
 ## Run 2
 Asset Making & Early Prototyping (Placeholder Assets)
 
-|     | Narrative | Art                     | Code                                                         |
-| --- | --------- | ----------------------- | ------------------------------------------------------------ |
-| 7   |           | Asset Making Start<br>- | - Early Prototype in Unity (Simple Carrom Game with Physics) |
-| 8   |           |                         |                                                              |
-| 9   |           |                         |                                                              |
-| 10  |           |                         |                                                              |
-| 11  |           |                         |                                                              |
+|     | Narrative | Art                                          | Code                                                         |
+| --- | --------- | -------------------------------------------- | ------------------------------------------------------------ |
+| 7   |           |                                              | - Early Prototype in Unity (Simple Carrom Game with Physics) |
+| 8   |           |                                              |                                                              |
+| 9   |           |                                              |                                                              |
+| 10  |           |                                              |                                                              |
+| 11  |           | - Finalization of Concept Art for Characters |                                                              |
 
 ## Run 3
 Prototyping & Adding Features
