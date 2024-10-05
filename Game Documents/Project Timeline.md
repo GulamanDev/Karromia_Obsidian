@@ -3,8 +3,8 @@
 * Art will be divided into 4 fields: Concept Artist , Pixel Artist , 3D Model + VFX Artist , UI Artist
 * Narrative will be minimal
 * Code will consist of 2 people working together
-* M-F runs, No Weekend works (Tho, if you like to work extra on weekends, it's totally fine)
-* Meetings will be Monday and Friday (Start and End of each Run)
+* T-S runs, No Sun-Mon works (Tho, if you like to work extra on weekends, it's totally fine)
+* Meetings will be Tuesday and Sat (Start and End of each Run)
 ---
 ## Goals
 - A simple game with a creative twist
